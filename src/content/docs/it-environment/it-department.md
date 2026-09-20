@@ -28,8 +28,8 @@ The internship introduced the following areas:
 
 * **The main IT functions**, including network and infrastructure, security, servers, and business systems support
 * **The organizational position** of the IT department within the company
-* How the IT department works on a daily basis to maintain **the stability and continuity of organizational services**, including network management, server administration, and support for business applications such as [Rahkaran Integrated System](/fa/business-systems/rahkaran-erp/)
+* How the IT department works on a daily basis to maintain **the stability and continuity of organizational services**, including network management, server administration, and support for business applications such as [Rahkaran Integrated System](./fa/business-systems/rahkaran-erp/)
 
 ## Lessons Learned
 
-One of the topics emphasized by the IT staff at BehMalt was the importance of **documentation**. Documenting items such as configurations, MAC addresses, meeting outcomes, and requests helps preserve technical knowledge and makes follow-up and troubleshooting easier. For more details, see [Professional Lessons Learned](/fa/lessons-learned/professional/).
+One of the topics emphasized by the IT staff at BehMalt was the importance of **documentation**. Documenting items such as configurations, MAC addresses, meeting outcomes, and requests helps preserve technical knowledge and makes follow-up and troubleshooting easier. For more details, see [Professional Lessons Learned](./fa/lessons-learned/professional/).

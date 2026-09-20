@@ -10,7 +10,7 @@ description: Reference materials, standards, certifications, and brands mentione
 
 The following standards were referenced during networking and infrastructure topics:
 
-* **TIA/EIA-568** — Structured cabling standards and wiring schemes for Ethernet connectors, including **T568A** and **T568B**. See [Passive Networking](/it-environment/network/).
+* **TIA/EIA-568** — Structured cabling standards and wiring schemes for Ethernet connectors, including **T568A** and **T568B**. See [Passive Networking](./it-environment/network/).
 
 * **IPv4 / IPv6** — The primary Internet addressing standards, covering concepts such as addressing, subnetting, routing, and address allocation.
 
@@ -38,12 +38,12 @@ Together, these certifications cover different areas of networking knowledge: **
 
 ## Referenced Brands and Products
 
-* **HP** — Server hardware; see [Physical Servers and Virtualization](/it-environment/servers-server-room/).
-* **Datasheen** — Rack and patch-panel equipment; see [Hardware](/it-environment/hardware/).
-* **Fortinet / FortiGate** — Next-generation firewall (NGFW) and network security platform; see [Security](/it-environment/security/).
-* **Kerio / Kerio Control** — Firewall and UTM platform; see [Security](/it-environment/security/).
-* **pfSense** — A FreeBSD-based firewall and routing platform used for various network deployments; see [Security](/it-environment/security/).
-* **VMware** — Virtualization platform, including **ESXi, vSphere, and vCenter**; see [Physical Servers and Virtualization](/it-environment/servers-server-room/).
-* **SystemGroup Rahkaran** — ERP platform; see [Rahkaran ERP](/business-systems/rahkaran-erp/).
-* **Sarv** — CRM platform; see [Sarv CRM](/business-systems/sarv-crm/).
-* **SMS.ir** — SMS gateway and messaging platform; see [Software](/knowledge/software/).
+* **HP** — Server hardware; see [Physical Servers and Virtualization](./it-environment/servers-server-room/).
+* **Datasheen** — Rack and patch-panel equipment; see [Hardware](./it-environment/hardware/).
+* **Fortinet / FortiGate** — Next-generation firewall (NGFW) and network security platform; see [Security](./it-environment/security/).
+* **Kerio / Kerio Control** — Firewall and UTM platform; see [Security](./it-environment/security/).
+* **pfSense** — A FreeBSD-based firewall and routing platform used for various network deployments; see [Security](./it-environment/security/).
+* **VMware** — Virtualization platform, including **ESXi, vSphere, and vCenter**; see [Physical Servers and Virtualization](./it-environment/servers-server-room/).
+* **SystemGroup Rahkaran** — ERP platform; see [Rahkaran ERP](./business-systems/rahkaran-erp/).
+* **Sarv** — CRM platform; see [Sarv CRM](./business-systems/sarv-crm/).
+* **SMS.ir** — SMS gateway and messaging platform; see [Software](./knowledge/software/).

@@ -8,9 +8,9 @@ description: Practical work completed and proposals developed during the interns
 The following tasks were performed in practice rather than only observed:
 
 * Participated in configuring NAT on the firewall and router for VoIP connectivity.
-* Assisted with the initial setup and configuration of a MikroTik router, including initial MAC-based access, IP address assignment, port hardening, and NAT configuration. See [Network](/it-environment/network/) for more details.
+* Assisted with the initial setup and configuration of a MikroTik router, including initial MAC-based access, IP address assignment, port hardening, and NAT configuration. See [Network](./it-environment/network/) for more details.
 * Participated in updating Windows Server in connection with the RouterOS and firmware update process for a MikroTik router.
-* Terminated a network cable using an RJ45 connector according to the demonstrated wiring standard. Both Type A and Type B wiring were reviewed, with Type B used as the practical example. See [Network](/it-environment/network/) for more details.
+* Terminated a network cable using an RJ45 connector according to the demonstrated wiring standard. Both Type A and Type B wiring were reviewed, with Type B used as the practical example. See [Network](./it-environment/network/) for more details.
 * Punched down a Keystone Jack as part of a structured cabling exercise.
 * Tested network cable connectivity and wire mapping using a network cable tester.
 

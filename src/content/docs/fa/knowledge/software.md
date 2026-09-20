@@ -5,15 +5,15 @@ description: نرم‌افزارهای اداری، پایگاه داده، پی
 
 ## نمای کلی
 
-این صفحه نرم‌افزار و پلتفرم‌های عمومی مواجه‌شده در طول کارآموزی را پوشش می‌دهد: ابزارهای مدیریتی Windows Server، ابزارهای مدیریت MikroTik/VoIP، Microsoft Access و پلتفرم پیام‌رسانی SMS.ir. سیستم‌های خاص کسب‌وکار (ERP، CRM و غیره) در [سیستم‌های کسب‌وکار](/fa/business-systems/overview/) پوشش داده شده‌اند.
+این صفحه نرم‌افزار و پلتفرم‌های عمومی مواجه‌شده در طول کارآموزی را پوشش می‌دهد: ابزارهای مدیریتی Windows Server، ابزارهای مدیریت MikroTik/VoIP، Microsoft Access و پلتفرم پیام‌رسانی SMS.ir. سیستم‌های خاص کسب‌وکار (ERP، CRM و غیره) در [سیستم‌های کسب‌وکار](./fa/business-systems/overview/) پوشش داده شده‌اند.
 
 ## ابزارهای Windows Server و شبکه
 
-- **Windows Server** و ابزارهای مدیریتی آن (Server Manager، Active Directory Users and Computers) — به [سرورها و اتاق سرور ← Windows Server](/fa/it-environment/servers-server-room/) مراجعه کنید.
-- **Winbox** و رابط وب RouterOS، مورد استفاده برای مدیریت دستگاه‌های MikroTik — به [شبکه ← MikroTik](/fa/it-environment/network/) مراجعه کنید.
-- **Issabel**، پلتفرمی که VoIP و مسیریابی تماس contact center روی آن پیکربندی شد — به [شبکه ← مدیریت Issabel Contact Center / PBX](/fa/it-environment/network/) مراجعه کنید.
-- **Kerio Control**، مورد استفاده به‌عنوان firewall/UTM — به [امنیت ← Firewall و UTM](/fa/it-environment/security/) مراجعه کنید.
-- **vSphere / vCenter / ESXi**، مورد استفاده برای مجازی‌سازی سرور — به [سرورها و اتاق سرور ← سرورهای فیزیکی و مجازی‌سازی](/fa/it-environment/servers-server-room/) مراجعه کنید.
+- **Windows Server** و ابزارهای مدیریتی آن (Server Manager، Active Directory Users and Computers) — به [سرورها و اتاق سرور ← Windows Server](./fa/it-environment/servers-server-room/) مراجعه کنید.
+- **Winbox** و رابط وب RouterOS، مورد استفاده برای مدیریت دستگاه‌های MikroTik — به [شبکه ← MikroTik](./fa/it-environment/network/) مراجعه کنید.
+- **Issabel**، پلتفرمی که VoIP و مسیریابی تماس contact center روی آن پیکربندی شد — به [شبکه ← مدیریت Issabel Contact Center / PBX](./fa/it-environment/network/) مراجعه کنید.
+- **Kerio Control**، مورد استفاده به‌عنوان firewall/UTM — به [امنیت ← Firewall و UTM](./fa/it-environment/security/) مراجعه کنید.
+- **vSphere / vCenter / ESXi**، مورد استفاده برای مجازی‌سازی سرور — به [سرورها و اتاق سرور ← سرورهای فیزیکی و مجازی‌سازی](./fa/it-environment/servers-server-room/) مراجعه کنید.
 
 ## Microsoft Access
 

@@ -4,8 +4,8 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  // site: "https://pouyatavakoli.github.io",
-  // base: "/behmalt-it-internship",
+  site: "https://pouyatavakoli.github.io",
+  base: "/behmalt-it-internship",
   integrations: [
     starlight({
       title: {

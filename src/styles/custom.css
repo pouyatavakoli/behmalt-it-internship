@@ -1,0 +1,4 @@
+/* Persian pages only. Astro sets <html lang="fa"> for the fa locale. */
+:root[lang="fa"] {
+  --sl-font: 'Vazirmatn Variable', sans-serif;
+}

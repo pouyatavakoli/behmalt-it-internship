@@ -10,7 +10,7 @@ description: Firewall/UTM practices, physical security, and account and access m
 
 During the internship at BehMalt, security was studied across three main areas: **Firewall/UTM security** as a major network-traffic control point, **physical security** for protecting the server room and equipment, and **account and access security**.
 
-Layered network-security concepts, including security controls on routers and switches, are covered in [Networking](./fa/it-environment/network/). This page focuses primarily on Firewall/UTM, physical security, and account and access management.
+Layered network-security concepts, including security controls on routers and switches, are covered in [Networking](../fa/it-environment/network/). This page focuses primarily on Firewall/UTM, physical security, and account and access management.
 
 ## Firewall and UTM
 
@@ -28,7 +28,7 @@ Common Firewall/UTM capabilities include:
 
 * **Access Control** — Controlling which users and devices can access specific resources and services.
 
-* **NAT and Firewall Rules** — Translating network addresses and allowing or blocking traffic according to defined policies. See [Networking](./fa/it-environment/network/) for NAT concepts.
+* **NAT and Firewall Rules** — Translating network addresses and allowing or blocking traffic according to defined policies. See [Networking](../fa/it-environment/network/) for NAT concepts.
 
 * **Traffic Management** — Controlling, prioritizing, or limiting traffic to manage bandwidth usage and protect latency-sensitive services such as VoIP.
 
@@ -82,7 +82,7 @@ Windows computers can be organized using different identity and access-managemen
 
 * **Workgroup** — Each computer independently manages its local user accounts and security settings, without a centralized authentication authority. This model is suitable for small and simple environments.
 
-* **Domain** — A centralized model for managing identities and network resources, commonly implemented using **Active Directory Domain Services (AD DS)**. Users, computers, and security policies can be centrally managed. See [Servers and Server Room](./fa/it-environment/servers-server-room/) for more information.
+* **Domain** — A centralized model for managing identities and network resources, commonly implemented using **Active Directory Domain Services (AD DS)**. Users, computers, and security policies can be centrally managed. See [Servers and Server Room](../fa/it-environment/servers-server-room/) for more information.
 
 ### At BehMalt
 
@@ -98,11 +98,11 @@ Centralized identity management through a Domain allows user accounts and access
 
 ### Concepts
 
-Physical security protects IT infrastructure against unauthorized physical access, environmental damage, and theft. Common considerations include server-room access control, equipment protection, environmental conditions, and fire safety. See [Servers and Server Room](./fa/it-environment/servers-server-room/) for more information.
+Physical security protects IT infrastructure against unauthorized physical access, environmental damage, and theft. Common considerations include server-room access control, equipment protection, environmental conditions, and fire safety. See [Servers and Server Room](../fa/it-environment/servers-server-room/) for more information.
 
 ### At BehMalt
 
-The physical-security topics covered during the internship included **server-room access control** and the physical protection of equipment and the server-room environment. Infrastructure and server-room standards are documented in [Servers and Server Room](./fa/it-environment/servers-server-room/).
+The physical-security topics covered during the internship included **server-room access control** and the physical protection of equipment and the server-room environment. Infrastructure and server-room standards are documented in [Servers and Server Room](../fa/it-environment/servers-server-room/).
 
 ## Account and Access Security Practices
 
@@ -116,6 +116,6 @@ The physical-security topics covered during the internship included **server-roo
 
 ## Related Sections
 
-* [Networking](./fa/it-environment/network/)
+* [Networking](../fa/it-environment/network/)
 
-* [Servers and Server Room](./fa/it-environment/servers-server-room/)
+* [Servers and Server Room](../fa/it-environment/servers-server-room/)

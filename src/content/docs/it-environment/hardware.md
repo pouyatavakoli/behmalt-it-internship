@@ -31,15 +31,15 @@ During the internship, KVM and monitor-based setups were observed. It was also n
 * **Punch-Down Tool** — Used to terminate and trim cable wires in keystone jacks and patch panels.
 * **Wire-Mapping Tester** — Used to check cable continuity, wire mapping, and termination correctness.
 * **Fluke Tester** — Professional cable testing and certification equipment used to evaluate link performance against applicable cabling standards.
-* **Fiber-Optic Tools** — Used for cleaving and fusion splicing fiber-optic cables. See [Fiber Optics](./it-environment/network/) for more details.
+* **Fiber-Optic Tools** — Used for cleaving and fusion splicing fiber-optic cables. See [Fiber Optics](../it-environment/network/) for more details.
 
 ## Power over Ethernet (PoE)
 
 **PoE (Power over Ethernet)** allows both data and electrical power to be transmitted over an Ethernet cable. A PoE-compatible device can receive its power from network equipment such as a PoE switch or injector, eliminating the need for a separate power adapter.
 
-For more details, see [Passive Network and Structured Cabling](./it-environment/network/).
+For more details, see [Passive Network and Structured Cabling](../it-environment/network/).
 
 ## Related Sections
 
-* [Passive Network and Structured Cabling](./it-environment/network/)
-* [Fiber Optics](./it-environment/network/)
+* [Passive Network and Structured Cabling](../it-environment/network/)
+* [Fiber Optics](../it-environment/network/)

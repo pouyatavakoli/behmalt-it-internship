@@ -182,7 +182,7 @@ MikroTik is a network-equipment manufacturer, particularly known for routers, wi
 
 * **Bridging**: The MikroTik Bridge feature can connect multiple interfaces within the same broadcast domain and can form part of a WAN connection design in some scenarios.
 
-* **Certifications**: MikroTik-related certifications such as **MTCNA** and **MTCRE**, along with broader networking certifications such as **CCNA** and **Network+**, are relevant educational paths in networking. For more information, see [Network Certifications](./fa/appendix/references/).
+* **Certifications**: MikroTik-related certifications such as **MTCNA** and **MTCRE**, along with broader networking certifications such as **CCNA** and **Network+**, are relevant educational paths in networking. For more information, see [Network Certifications](../fa/appendix/references/).
 
 ### At BehMalt
 
@@ -218,8 +218,8 @@ Observed activities and practical work related to MikroTik included:
 
 ## Related Sections
 
-* [Servers and Server Room](./fa/it-environment/servers-server-room/) — Windows Server can provide services such as DHCP and DNS, while Active Directory enables centralized user and access management.
+* [Servers and Server Room](../fa/it-environment/servers-server-room/) — Windows Server can provide services such as DHCP and DNS, while Active Directory enables centralized user and access management.
 
-* [Hardware](./fa/it-environment/hardware/) — Rack equipment, cable-management tools, and testing equipment used in passive networking.
+* [Hardware](../fa/it-environment/hardware/) — Rack equipment, cable-management tools, and testing equipment used in passive networking.
 
-* [Security](./fa/it-environment/security/) — Firewall/UTM technologies, including Fortinet / FortiGate, pfSense, and Kerio, as well as physical security for server rooms and network equipment.
+* [Security](../fa/it-environment/security/) — Firewall/UTM technologies, including Fortinet / FortiGate, pfSense, and Kerio, as well as physical security for server rooms and network equipment.

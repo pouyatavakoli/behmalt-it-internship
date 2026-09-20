@@ -6,9 +6,9 @@ description: وظایف عملی و تکرارشونده انجام‌شده ی�
 
 ## وظایف
 
-* راه‌اندازی اولیه روتر MikroTik، شامل دسترسی مبتنی بر MAC، تخصیص IP، سخت‌سازی دسترسی مدیریتی و پیکربندی NAT — [MikroTik](./fa/it-environment/network/)
-* ایجاد و مدیریت کاربران و کامپیوترها در Active Directory و اعمال Policy در سطح Domain — [Windows Server](./fa/it-environment/servers-server-room/)
+* راه‌اندازی اولیه روتر MikroTik، شامل دسترسی مبتنی بر MAC، تخصیص IP، سخت‌سازی دسترسی مدیریتی و پیکربندی NAT — [MikroTik](../fa/it-environment/network/)
+* ایجاد و مدیریت کاربران و کامپیوترها در Active Directory و اعمال Policy در سطح Domain — [Windows Server](../fa/it-environment/servers-server-room/)
 * اشتراک‌گذاری و مدیریت منابع شبکه مانند پرینترها و پوشه‌های اشتراکی در محیط Windows Server
 * نگهداری و به‌روزرسانی محتوای وب‌سایت، بررسی ساختار صفحات و مستندسازی فعالیت‌ها و اطلاعات مرتبط با بخش IT
-* ترمینیشن کابل‌های شبکه روی Keystone Jack و Patch Panel — [شبکه پسیو](./fa/it-environment/network/)
+* ترمینیشن کابل‌های شبکه روی Keystone Jack و Patch Panel — [شبکه پسیو](../fa/it-environment/network/)
 * مدیریت و به‌روزرسانی محتوای شبکه‌های اجتماعی، شامل آماده‌سازی و انتشار محتوا و هماهنگی اطلاعات منتشرشده با فعالیت‌های شرکت

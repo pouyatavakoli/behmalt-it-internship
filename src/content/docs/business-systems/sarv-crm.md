@@ -22,4 +22,4 @@ This gives an organization visibility into its sales pipeline: how many leads ar
 
 ## Related Sections
 
-- [Rahkaran ERP](./business-systems/rahkaran-erp/)
+- [Rahkaran ERP](../business-systems/rahkaran-erp/)

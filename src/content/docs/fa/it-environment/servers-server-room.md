@@ -20,9 +20,9 @@ description: استانداردهای اتاق سرور، سرورهای فیز�
 
 * **کاهش خطر حریق (Fire Hazard Mitigation)**، شامل استفاده از مواد مناسب و در محیط‌های حرفه‌ای، سیستم اطفای حریق متناسب با تجهیزات الکتریکی و الزامات محل.
 
-* **کابل‌کشی ساختاریافته** درون اتاق (به [شبکه](../fa/it-environment/network/) مراجعه کنید).
+* **کابل‌کشی ساختاریافته** درون اتاق (به [شبکه](/behmalt-it-internship/fa/it-environment/network/) مراجعه کنید).
 
-* **کنترل دسترسی** برای محدود کردن ورود فیزیکی به پرسنل مجاز (به [امنیت](../fa/it-environment/security/) مراجعه کنید).
+* **کنترل دسترسی** برای محدود کردن ورود فیزیکی به پرسنل مجاز (به [امنیت](/behmalt-it-internship/fa/it-environment/security/) مراجعه کنید).
 
 ### در به‌مالت
 
@@ -84,7 +84,7 @@ description: استانداردهای اتاق سرور، سرورهای فیز�
 
 * **DNS** — نام‌های host و سرویس‌ها را به آدرس‌های IP تفکیک می‌کند و معمولاً بخش مهمی از زیرساخت Active Directory است.
 
-* **DHCP** — به‌صورت خودکار آدرس‌های IP و سایر تنظیمات شبکه را به کلاینت‌ها اختصاص می‌دهد. این نقش می‌تواند در محیط‌های دیگر، برای مثال توسط MikroTik، نیز ارائه شود؛ به [شبکه](../fa/it-environment/network/) مراجعه کنید.
+* **DHCP** — به‌صورت خودکار آدرس‌های IP و سایر تنظیمات شبکه را به کلاینت‌ها اختصاص می‌دهد. این نقش می‌تواند در محیط‌های دیگر، برای مثال توسط MikroTik، نیز ارائه شود؛ به [شبکه](/behmalt-it-internship/fa/it-environment/network/) مراجعه کنید.
 
 * **FTP** — سرویس انتقال فایل که در برخی محیط‌ها برای انتقال فایل استفاده می‌شود.
 
@@ -102,7 +102,7 @@ description: استانداردهای اتاق سرور، سرورهای فیز�
 
 یک **domain** محیطی برای مدیریت متمرکز هویت و منابع شبکه است، در حالی که در یک **workgroup** هر دستگاه حساب‌های محلی و تنظیمات امنیتی خود را به‌صورت مستقل مدیریت می‌کند.
 
-عضویت در domain امکان استفاده از **احراز هویت متمرکز، Group Policy و مدیریت منابع** را فراهم می‌کند. برای مقایسه Domain و Workgroup به [امنیت](../fa/it-environment/security/) مراجعه کنید.
+عضویت در domain امکان استفاده از **احراز هویت متمرکز، Group Policy و مدیریت منابع** را فراهم می‌کند. برای مقایسه Domain و Workgroup به [امنیت](/behmalt-it-internship/fa/it-environment/security/) مراجعه کنید.
 
 درون Active Directory:
 
@@ -150,8 +150,8 @@ description: استانداردهای اتاق سرور، سرورهای فیز�
 
 ## بخش‌های مرتبط
 
-* [شبکه](../fa/it-environment/network/) — MikroTik می‌تواند در برخی معماری‌ها به‌عنوان DHCP Server استفاده شود.
+* [شبکه](/behmalt-it-internship/fa/it-environment/network/) — MikroTik می‌تواند در برخی معماری‌ها به‌عنوان DHCP Server استفاده شود.
 
-* [امنیت](../fa/it-environment/security/) — کنترل دسترسی فیزیکی به اتاق سرور، Firewall/UTM شامل Fortinet / FortiGate، pfSense و Kerio، و مدل دسترسی Domain در برابر Workgroup.
+* [امنیت](/behmalt-it-internship/fa/it-environment/security/) — کنترل دسترسی فیزیکی به اتاق سرور، Firewall/UTM شامل Fortinet / FortiGate، pfSense و Kerio، و مدل دسترسی Domain در برابر Workgroup.
 
-* [سخت‌افزار](../fa/it-environment/hardware/) — سخت‌افزار سرور نصب‌شده در رک و تجهیزات مرتبط.
+* [سخت‌افزار](/behmalt-it-internship/fa/it-environment/hardware/) — سخت‌افزار سرور نصب‌شده در رک و تجهیزات مرتبط.

@@ -5,15 +5,15 @@ description: Office, database, messaging, and platform software encountered duri
 
 ## Overview
 
-This page covers general-purpose software and platforms encountered during the internship: Windows Server administration tools, MikroTik/VoIP management tools, Microsoft Access, and the SMS.ir messaging platform. Business-specific systems (ERP, CRM, etc.) are covered in [Business Systems](../business-systems/overview/).
+This page covers general-purpose software and platforms encountered during the internship: Windows Server administration tools, MikroTik/VoIP management tools, Microsoft Access, and the SMS.ir messaging platform. Business-specific systems (ERP, CRM, etc.) are covered in [Business Systems](/behmalt-it-internship/business-systems/overview/).
 
 ## Windows Server & Network Tools
 
-- **Windows Server** and its administration tools (Server Manager, Active Directory Users and Computers) — see [Servers & Server Room → Windows Server](../it-environment/servers-server-room/#windows-server).
-- **Winbox** and the RouterOS web interface, used to manage MikroTik devices — see [Network → MikroTik](../it-environment/network/#mikrotik).
-- **Issabel**, the platform on which VoIP and contact-center call routing were configured — see [Network → Issabel Contact Center / PBX Administration](../it-environment/network/#issabel-contact-center--pbx-administration).
-- **Kerio Control**, used as a firewall/UTM — see [Security → Firewalls and UTM](../it-environment/security/#firewalls-and-utm).
-- **vSphere / vCenter / ESXi**, used for server virtualization — see [Servers & Server Room → Physical Servers & Virtualization](../it-environment/servers-server-room/#physical-servers--virtualization).
+- **Windows Server** and its administration tools (Server Manager, Active Directory Users and Computers) — see [Servers & Server Room → Windows Server](/behmalt-it-internship/it-environment/servers-server-room/#windows-server).
+- **Winbox** and the RouterOS web interface, used to manage MikroTik devices — see [Network → MikroTik](/behmalt-it-internship/it-environment/network/#mikrotik).
+- **Issabel**, the platform on which VoIP and contact-center call routing were configured — see [Network → Issabel Contact Center / PBX Administration](/behmalt-it-internship/it-environment/network/#issabel-contact-center--pbx-administration).
+- **Kerio Control**, used as a firewall/UTM — see [Security → Firewalls and UTM](/behmalt-it-internship/it-environment/security/#firewalls-and-utm).
+- **vSphere / vCenter / ESXi**, used for server virtualization — see [Servers & Server Room → Physical Servers & Virtualization](/behmalt-it-internship/it-environment/servers-server-room/#physical-servers--virtualization).
 
 ## Microsoft Access
 

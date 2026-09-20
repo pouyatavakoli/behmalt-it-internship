@@ -14,4 +14,4 @@ description: Tools used or referenced throughout this documentation.
 * **Active Directory Users and Computers (ADUC)** — Management console for users, groups, and other Active Directory objects
 * **Issabel** — VoIP and PBX platform used at BehMalt
 
-For more details, see [Hardware](../it-environment/hardware/) and [Network](../it-environment/network/).
+For more details, see [Hardware](/behmalt-it-internship/it-environment/hardware/) and [Network](/behmalt-it-internship/it-environment/network/).

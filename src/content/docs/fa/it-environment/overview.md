@@ -5,8 +5,8 @@ description: نمای کلی محیط IT در BehMalt.
 
 این بخش زیرساخت فیزیکی و شبکه‌ای موجود در به‌مالت را مستند می‌کند: ساختار بخش IT، طراحی و امنیت شبکه، اتاق سرور و زیرساخت سرور، رویه‌های امنیت فیزیکی و سخت‌افزار مرتبط.
 
-- [بخش IT](../fa/it-environment/it-department/) — نقش و ساختار سازمانی IT در به‌مالت
-- [شبکه](../fa/it-environment/network/) — توپولوژی شبکه، کابل‌کشی پسیو، فیبر، لایه‌های امنیتی، VoIP، MikroTik
-- [سرورها و اتاق سرور](../fa/it-environment/servers-server-room/) — استانداردهای اتاق سرور و زیرساخت Windows Server
-- [امنیت](../fa/it-environment/security/) — رویه‌های امنیت فیزیکی و دسترسی
-- [سخت‌افزار](../fa/it-environment/hardware/) — تجهیزات رک، ابزارهای کابل‌کشی و سخت‌افزار مرتبط
+- [بخش IT](/behmalt-it-internship/fa/it-environment/it-department/) — نقش و ساختار سازمانی IT در به‌مالت
+- [شبکه](/behmalt-it-internship/fa/it-environment/network/) — توپولوژی شبکه، کابل‌کشی پسیو، فیبر، لایه‌های امنیتی، VoIP، MikroTik
+- [سرورها و اتاق سرور](/behmalt-it-internship/fa/it-environment/servers-server-room/) — استانداردهای اتاق سرور و زیرساخت Windows Server
+- [امنیت](/behmalt-it-internship/fa/it-environment/security/) — رویه‌های امنیت فیزیکی و دسترسی
+- [سخت‌افزار](/behmalt-it-internship/fa/it-environment/hardware/) — تجهیزات رک، ابزارهای کابل‌کشی و سخت‌افزار مرتبط

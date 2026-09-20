@@ -25,4 +25,4 @@ Because all of these functions share the same underlying data (e.g., the same pr
 
 ## Related Sections
 
-- [Sarv CRM](../business-systems/sarv-crm/)
+- [Sarv CRM](/behmalt-it-internship/business-systems/sarv-crm/)

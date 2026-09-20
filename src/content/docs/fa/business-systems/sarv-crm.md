@@ -22,4 +22,4 @@ description: Sarv CRM در به‌مالت.
 
 ## بخش‌های مرتبط
 
-- [Rahkaran ERP](../fa/business-systems/rahkaran-erp/)
+- [Rahkaran ERP](/behmalt-it-internship/fa/business-systems/rahkaran-erp/)

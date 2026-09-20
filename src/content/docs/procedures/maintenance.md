@@ -6,13 +6,13 @@ description: IT infrastructure maintenance tasks and procedures observed during 
 
 ## Maintenance Tasks
 
-* **MikroTik Router OS and Firmware Updates:** Checking available versions and performing required updates to maintain device stability and security — [MikroTik](../it-environment/network/)
+* **MikroTik Router OS and Firmware Updates:** Checking available versions and performing required updates to maintain device stability and security — [MikroTik](/behmalt-it-internship/it-environment/network/)
 
-* **Windows Updates and Patch Distribution:** In enterprise environments, system updates can be managed and distributed through a dedicated update management server such as WSUS, allowing the process to be centrally controlled — [Windows Server](../it-environment/servers-server-room/)
+* **Windows Updates and Patch Distribution:** In enterprise environments, system updates can be managed and distributed through a dedicated update management server such as WSUS, allowing the process to be centrally controlled — [Windows Server](/behmalt-it-internship/it-environment/servers-server-room/)
 
-* **KMS Activation Management:** Using KMS to centrally manage activation of Microsoft products in an organizational environment and reduce the need for individual system activation — [Windows Server](../it-environment/servers-server-room/)
+* **KMS Activation Management:** Using KMS to centrally manage activation of Microsoft products in an organizational environment and reduce the need for individual system activation — [Windows Server](/behmalt-it-internship/it-environment/servers-server-room/)
 
-* **Hardware Maintenance and Repair:** Checking equipment condition, troubleshooting hardware issues, inspecting connections and cables, and replacing faulty components when necessary — [Hardware](../it-environment/hardware/)
+* **Hardware Maintenance and Repair:** Checking equipment condition, troubleshooting hardware issues, inspecting connections and cables, and replacing faulty components when necessary — [Hardware](/behmalt-it-internship/it-environment/hardware/)
 
 * **Periodic PC Maintenance:** Checking user computers for hardware, storage, operating system, and peripheral issues, cleaning dust, and performing necessary corrective actions to maintain system performance.
 

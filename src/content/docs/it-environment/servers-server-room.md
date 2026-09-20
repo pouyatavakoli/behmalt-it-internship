@@ -20,9 +20,9 @@ A server room requires controlled environmental conditions for reliable hardware
 
 * **Fire hazard mitigation**, including appropriate construction materials and, in professional environments, fire-suppression systems suitable for rooms containing electrical equipment.
 
-* **Structured cabling** within the room (see [Networking](/behmalt-it-internship/fa/it-environment/network/)).
+* **Structured cabling** within the room (see [Networking](/behmalt-it-internship/it-environment/network/)).
 
-* **Access control** to restrict physical entry to authorized personnel (see [Security](/behmalt-it-internship/fa/it-environment/security/)).
+* **Access control** to restrict physical entry to authorized personnel (see [Security](/behmalt-it-internship/it-environment/security/)).
 
 ### At BehMalt
 
@@ -84,7 +84,7 @@ Enterprise physical servers are generally designed with **redundancy** in mind t
 
 * **DNS** — Resolves host and service names to IP addresses and is a core component of Active Directory infrastructure.
 
-* **DHCP** — Automatically assigns IP addresses and other network configuration to clients. This role can also be provided by other infrastructure devices, such as MikroTik; see [Networking](/behmalt-it-internship/fa/it-environment/network/).
+* **DHCP** — Automatically assigns IP addresses and other network configuration to clients. This role can also be provided by other infrastructure devices, such as MikroTik; see [Networking](/behmalt-it-internship/it-environment/network/).
 
 * **FTP** — A file-transfer service used in some environments for transferring files.
 
@@ -102,7 +102,7 @@ Enterprise physical servers are generally designed with **redundancy** in mind t
 
 A **domain** provides centralized management of identities and network resources, while in a **workgroup**, each device independently manages its local accounts and security settings.
 
-Domain membership enables **centralized authentication, Group Policy, and resource management**. For a comparison of Domain and Workgroup, see [Security](/behmalt-it-internship/fa/it-environment/security/).
+Domain membership enables **centralized authentication, Group Policy, and resource management**. For a comparison of Domain and Workgroup, see [Security](/behmalt-it-internship/it-environment/security/).
 
 Within Active Directory:
 
@@ -150,8 +150,8 @@ The internship covered:
 
 ## Related Sections
 
-* [Networking](/behmalt-it-internship/fa/it-environment/network/) — MikroTik can provide DHCP Server functionality in some architectures.
+* [Networking](/behmalt-it-internship/it-environment/network/) — MikroTik can provide DHCP Server functionality in some architectures.
 
-* [Security](/behmalt-it-internship/fa/it-environment/security/) — Physical server-room access control, Firewall/UTM solutions including Fortinet / FortiGate, pfSense, and Kerio, and Domain versus Workgroup access models.
+* [Security](/behmalt-it-internship/it-environment/security/) — Physical server-room access control, Firewall/UTM solutions including Fortinet / FortiGate, pfSense, and Kerio, and Domain versus Workgroup access models.
 
-* [Hardware](/behmalt-it-internship/fa/it-environment/hardware/) — Server hardware installed in racks and related equipment.
+* [Hardware](/behmalt-it-internship/it-environment/hardware/) — Server hardware installed in racks and related equipment.
